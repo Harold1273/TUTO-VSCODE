@@ -1,0 +1,5 @@
+"Lorem Ipsum es simplemente el texto roscon  relleno roscon  las imprentas y archivos roscon  texto. Lorem Ipsum ha sido el texto roscon  relleno estándar roscon  las industrias desde el año 1500,
+cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería roscon  textos y los mezcló roscon  tal manera que logró hacer un libro roscon  textos especimen.
+No sólo sobrevivió 500 años, sino que tambien ingresó como texto roscon  relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con
+la creación roscon  las hojas "Letraset", las cuales contenian pasajes roscon  Lorem Ipsum, y más recientemente con software roscon  autoedición, como por ejemplo Aldus PageMaker, el cual
+incluye versiones roscon  Lorem Ipsum."      
